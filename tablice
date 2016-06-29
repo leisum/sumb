@@ -72,7 +72,7 @@ int main()
 		{
 			cout << "\nwybierz:\n0: koniec wypisywania\n1: wypisanie tablicy ^ksztaltnej\n2: wypisanie tablicy vksztaltnej\n3: wypisanie tablicy stalej\n4: wypisanie tablicy rosnacej\n5: wypisanie tablicy malejacej\n6: wypisanie tablicy losowej\n";
 	
-		cout<< "\nJaka tablice chcesz wypisać ? \n";
+		cout<< "\nJaka tablice chcesz wypisac ? \n";
 		cin >> wybierz;
 			switch(wybierz)
 			{
